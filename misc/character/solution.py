@@ -2,7 +2,7 @@ import subprocess
 from time import sleep
 
 def send_command_and_receive_response(host, port):
-    index = 46
+    index = 0
     final_response = ""
 
     while "}" not in final_response:
