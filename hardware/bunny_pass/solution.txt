@@ -1,0 +1,2 @@
+rabbitmq - admin:admin
+read factory_idle queue; change messages to 10
